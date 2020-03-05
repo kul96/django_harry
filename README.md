@@ -4,4 +4,6 @@
 
 wsgi = web server gateway interface
 
+> using 'POST' method in form u need
+> to add {% csrf_token %} in < form tag >
 
